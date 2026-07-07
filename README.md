@@ -10,7 +10,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh-3241b8241)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsiddharth9238@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitanibedita7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktr.ee/siddharthsingh9238)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
@@ -121,14 +121,14 @@ graph TD
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharth9238&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth9238&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitanibedita&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitanibedita&theme=github_dark" />
 </div>
 
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=siddharth9238&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=arpitanibedita&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
@@ -146,7 +146,7 @@ graph TD
 **Open to:** Engineering Roles · Technical Leadership · Consulting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh-3241b8241)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhsiddharth9238@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitanibedita@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 [![X](https://img.shields.io/badge/X-Updates-000000?style=for-the-badge&logo=x&logoColor=white)]()
 </div>
