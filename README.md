@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Arpita Nibedita 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=200&section=header&text=Arpita%20Nibedita&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Java%20%7C%20Full%20Stack%20Developer&descAlignY=75&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Java+%7C+Full+Stack+Developer;Backend+%26+REST+API+Development;MCA+Student+%40+Adamas+University;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-nibedita-360a8a262)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitanibedita7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitanibedita)
+
+<img src="https://komarev.com/ghpvc/?username=arpitanibedita&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -149,10 +151,64 @@ graph TD
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arpitanibedita&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitanibedita&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake.svg" />
+  </picture>
 </p>
+
+<details>
+<summary>⚙️ Snake animation setup (click to expand)</summary>
+
+The image above only appears once this workflow has run in this repo. GitHub only picks up workflow files that live at `.github/workflows/`, so this piece can't literally be merged into the README's own logic — but you can copy it straight from here:
+
+1. In this repo, create the file `.github/workflows/snake.yml` and paste in the YAML below.
+2. Go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**.
+3. Go to the **Actions** tab and run **"Generate Snake Animation"** once manually (it also runs daily and on every push to `main`).
+4. An `output` branch will appear with `github-snake.svg` / `github-snake-dark.svg` — exactly what the image above already points to.
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake from contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: arpitanibedita
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake svg files to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
@@ -167,3 +223,5 @@ graph TD
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitanibedita)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4AA&height=120&section=footer" width="100%"/>
