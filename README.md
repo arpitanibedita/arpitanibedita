@@ -29,7 +29,7 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 </td>
 <td valign="top" width="50%">
 
-<img src="./coding.gif" width="500" alt="Coding animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitanibedita&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
 
 </td>
 </tr>
@@ -154,61 +154,6 @@ graph TD
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arpitanibedita&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
-
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arpitanibedita/arpitanibedita/output/github-snake.svg" />
-  </picture>
-</p>
-
-<details>
-<summary>⚙️ Snake animation setup (click to expand)</summary>
-
-The image above only appears once this workflow has run in this repo. GitHub only picks up workflow files that live at `.github/workflows/`, so this piece can't literally be merged into the README's own logic — but you can copy it straight from here:
-
-1. In this repo, create the file `.github/workflows/snake.yml` and paste in the YAML below.
-2. Go to **Settings → Actions → General → Workflow permissions** and select **Read and write permissions**.
-3. Go to the **Actions** tab and run **"Generate Snake Animation"** once manually (it also runs daily and on every push to `main`).
-4. An `output` branch will appear with `github-snake.svg` / `github-snake-dark.svg` — exactly what the image above already points to.
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight UTC
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake from contribution graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: arpitanibedita
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push snake svg files to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
