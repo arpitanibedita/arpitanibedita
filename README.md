@@ -1,139 +1,143 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Arpita Nibedita 👋</h1>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • Node.js • React • SQL</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=220&section=header&text=Arpita%20Nibedita&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=80&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;React+%7C+SQL+Query+Optimization;MCA+Candidate+%40+Adamas+University;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-nibedita-360a8a262)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitanibedita7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitanibedita)
-
-<img src="https://komarev.com/ghpvc/?username=arpitanibedita&color=00D4AA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
-
----
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-## 🚀 About Me
-
-**Full Stack Developer** seeking an entry-level Software Engineer role.
-
-Full Stack Developer with hands-on experience building Java/Spring Boot and Node.js/Express applications, React interfaces, REST APIs, and SQL-backed systems. Strong foundation in OOP, data structures, layered architecture, authentication, and database query optimization. Built **OptiSQL**, an enterprise-grade query-analysis platform focused on SQL cost modeling, index recommendations, anti-pattern detection, and asynchronous slow-query processing. MCA candidate with a strong software-engineering focus.
-
-Currently pursuing my **Master of Computer Applications (MCA)** at Adamas University (CGPA 8.5), with hands-on experience as a Software Trainee at Nvisagecomp Solutions LLP and a Full Stack Developer Intern at Cognifyz Technologies.
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitanibedita&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Coding%20Activity%20(Real-time)" width="100%" alt="GitHub activity graph"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Professional Experience
-
-### **Software Trainee** — Nvisagecomp Solutions LLP *(Nov 2025 – May 2026)*
-- Engineered responsive full-stack applications with React/React Flow, Node.js/Express.js, and Java/Spring Boot across layered RESTful architectures.
-- Designed relational schemas in MySQL and PostgreSQL and applied SQL tuning and index-optimization techniques to improve data retrieval performance.
-- Implemented JWT-based authentication across asynchronous REST services and applied secure API access patterns.
-
-📄 **[View Certificate](https://drive.google.com/drive/folders/1ScXkfY1wzIAHmt-1ZbV6pVrLHdzkjYxD)**
-
-### **Full Stack Developer Intern** — Cognifyz Technologies *(Jul 2025 – Aug 2025)*
-- Built Java and SQL backend modules using OOP principles and layered architecture for database-driven applications.
-- Integrated REST APIs with database components and optimized application logic and SQL queries to improve data retrieval and response efficiency.
-- Worked in an Agile-oriented environment with emphasis on maintainability, debugging, testing, and reliable application behavior.
-
-📄 **[View Certificate](https://drive.google.com/drive/folders/10DHbPnzyYWG0ky40BCyNixOTUgS175OA)**
-
----
-
-## 🛠️ Technical Skills & Tech Stack
-
-### **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,sql,py" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;React+%7C+SQL+%7C+REST+APIs;Building+OptiSQL+%E2%80%94+SQL+Query+Optimizer;MCA+Candidate+%40+Adamas+University" alt="Typing SVG" />
+  </a>
 </p>
 
-### **Backend & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-Security-FF5722?style=for-the-badge&logo=security&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=6DB33F&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/MCA%20Candidate-Adamas%20University-6DB33F?style=flat-square" alt="MCA Candidate" />
 </p>
 
-### **Frontend & UI**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Flow-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Interactive_UI-E91E63?style=for-the-badge" />
-</p>
-
-### **Databases & Optimization**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Query_Optimization-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Relational_Schema-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL_Tuning-FF9800?style=for-the-badge" />
-</p>
-
-### **Core Engineering Principles**
-<p align="left">
-  <img src="https://img.shields.io/badge/OOP-Principles-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Structures-Algorithms-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Layered_Architecture-438EFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SDLC-Lifecycle-607D8B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Asynchronous_Processing-9C27B0?style=for-the-badge" />
-</p>
-
-### **Tools, IoT & AI Assistants**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,flutter,arduino" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-3F51B5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Manus-6C63FF?style=for-the-badge" />
+<p align="center">
+  <a href="mailto:arpitanibedita7@gmail.com"><img src="https://img.shields.io/badge/Email-arpitanibedita7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-6DB33F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎯 System Architecture & Focus Areas
+### 🚀 About Me
 
-```mermaid
-graph TD
-    A[Full Stack Expertise] --> B[Backend & API Engineering]
-    A --> C[Frontend & Interactive UI]
-    A --> D[Database & Query Optimization]
-    
-    B --> E[Java / Spring Boot & Node.js/Express]
-    B --> F[JWT Auth & Layered Architecture]
-    
-    C --> G[React & React Flow Visualizer]
-    C --> H[Flutter Mobile / IoT Integration]
-    
-    D --> I[MySQL / PostgreSQL Schemas]
-    D --> J[OptiSQL Cost Modeling & Index Tuning]
+- 🔭 Full Stack Developer building **Java/Spring Boot** and **Node.js/Express** applications with **React** front ends and **SQL**-backed systems
+- 🧠 Strong foundation in **OOP, data structures, layered architecture, authentication,** and **database query optimization**
+- 🛠️ Built **OptiSQL** — an enterprise-grade SQL query-analysis platform with cost modeling, index recommendations, and anti-pattern detection
+- 🎓 Currently pursuing my **MCA at Adamas University, Kolkata** (CGPA: 8.5)
+- 🤝 Comfortable working with AI-assisted dev tools — GitHub Copilot, Claude, Gemini, Manus — as part of my everyday workflow
 
-    style A fill:#0077B5,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#00D4AA,stroke:#fff,stroke-width:1px,color:#000
-    style C fill:#00D4AA,stroke:#fff,stroke-width:1px,color:#000
-    style D fill:#00D4AA,stroke:#fff,stroke-width:1px,color:#000
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Databases**
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+---
+
+### 🌟 Featured Projects
+
+#### 🔎 [OptiSQL — Intelligent Database Query Optimizer](https://github.com/YOUR-GITHUB-USERNAME/optisql)
+Enterprise-grade full-stack query-analysis platform that visualizes complex multi-table SQL queries as interactive node-based DAGs.
+- Mathematical I/O and CPU cost models with composite-index recommendations and anti-pattern detection
+- Asynchronous slow-query-log processing via background task queues for high-volume analysis
+- `React` · `React Flow` · `SQL` · `Cost Modeling` · `Background Task Queues`
+
+#### 🔐 IoT Smart Door Lock & Security System *(MCA Project)*
+Decentralized smart-access system with offline GSM alerts and a companion mobile app.
+- Arduino Uno R3 + ESP32-CAM architecture with SIM800L GSM offline alerts
+- Flutter app with PIN, Wi-Fi, OTP, and biometric auth, plus AI-assisted voice recognition & anomaly detection
+- `Flutter` · `Arduino Uno R3` · `ESP32-CAM` · `GSM` · `AI Anomaly Detection`
+
+#### 📦 Full-Stack Mini-ERP System
+ERP dashboard for inventory management and real-time sales-order processing.
+- RESTful Node.js/Express backend with MySQL, transactional SQL for accurate stock deductions
+- Asynchronous Fetch API updates for real-time dashboard data
+- `Node.js` · `Express.js` · `MySQL` · `JavaScript`
+
+#### 🗂️ Content Management System
+Full-stack Java web application with MVC-style application flow.
+- Servlets + JDBC-based data access for end-to-end request handling
+- Relational schema design and optimized SQL for content creation/retrieval
+- `Java` · `Servlets` · `JDBC` · `MySQL` · `Apache Tomcat`
+
+> 💡 Replace the links above with your actual repo URLs once you push each project.
+
+---
+
+### 💼 Experience
+
+**Software Trainee** · Nvisagecomp Solutions LLP · Bengaluru — *Nov 2025 – May 2026*
+Full-stack apps with React/React Flow, Node.js/Express, and Java/Spring Boot; SQL tuning in MySQL/PostgreSQL; JWT-based auth across async REST services.
+
+**Full Stack Developer Intern** · Cognifyz Technologies · Remote — *Jul 2025 – Aug 2025*
+Java/SQL backend modules with OOP and layered architecture; REST API integration and query optimization in an Agile environment.
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Score | Years |
+|---|---|---|---|
+| MCA | Adamas University, Kolkata | 8.5 CGPA | 2024 – 2026 |
+| BCA | Utkal University, Bhubaneswar | 7.27 CGPA | 2021 – 2024 |
+| Higher Secondary (PCM) | SCS Higher Secondary School, Puri | 73.6% | 2019 – 2021 |
+
+### 📜 Certifications
+
+- SAP: ABAP Backend Cloud
+- Oracle: APEX Cloud Developer
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to Full Stack Developer roles — Java/Spring Boot & Node.js/React. Let's connect!</i>
+</p>
