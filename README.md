@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Arpita Nibedita 👋</h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • Node.js • React • SQL</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2b8a3e&height=180&section=header&text=Arpita%20Nibedita&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Node.js%20%C2%B7%20React&descAlignY=60&descSize=17&descColor=f0fff4" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -30,7 +29,31 @@
 
 ---
 
+### 😄 A Little Humor
+
+<!--
+  Add your "Client vs Designer" image/gif here! Since it's your own image, host it
+  yourself (see the note in chat for the two easiest ways), then paste the link below
+  in place of PASTE_YOUR_IMAGE_URL_HERE. Keep the width around 500-600px so it doesn't
+  overpower the page.
+-->
+<p align="center">
+  <img src="PASTE_YOUR_IMAGE_URL_HERE" alt="Client vs Developer" width="550"/>
+  <br/>
+  <sub>Every dev knows the feeling 😅</sub>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,js,html,css,mysql,postgres,git,github,docker,postman,idea,vscode&theme=dark&perline=8" />
+</p>
+
+<details>
+<summary><b>See breakdown by category</b></summary>
+<br/>
 
 **Languages**
 
@@ -67,6 +90,8 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</details>
 
 ---
 
@@ -136,8 +161,13 @@ Java/SQL backend modules with OOP and layered architecture; REST API integration
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
 ---
 
 <p align="center">
   <i>Open to Full Stack Developer roles — Java/Spring Boot & Node.js/React. Let's connect!</i>
 </p>
+
