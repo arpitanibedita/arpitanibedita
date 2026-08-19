@@ -29,7 +29,7 @@ Currently pursuing my **Master of Computer Applications (MCA)** at Adamas Univer
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitanibedita&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitanibedita&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Coding%20Activity%20(Real-time)" width="100%" alt="GitHub activity graph"/>
 
 </td>
 </tr>
