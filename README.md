@@ -37,7 +37,7 @@ Currently pursuing my **Master of Computer Applications (MCA)** at Adamas Univer
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### **Software Trainee** — Nvisagecomp Solutions LLP *(Nov 2025 – May 2026)*
 - Engineered responsive full-stack applications with React/React Flow, Node.js/Express.js, and Java/Spring Boot across layered RESTful architectures.
@@ -55,40 +55,63 @@ Currently pursuing my **Master of Computer Applications (MCA)** at Adamas Univer
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Technical Skills & Tech Stack
 
-**Programming Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=java,cpp,js,sql,py" /></p>
-
-**Backend & Architecture**
-<p align="left"><img src="https://skillicons.dev/icons?i=spring,nodejs,express" /></p>
+### **Programming Languages**
 <p align="left">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,sql,py" />
 </p>
 
-**Frontend**
-<p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,js" /></p>
-
-**Databases & Optimization**
-<p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></p>
-
-**Core Engineering**
+### **Backend & Frameworks**
 <p align="left">
-<img src="https://img.shields.io/badge/OOP-Principles-007ACC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Structures-Algorithms-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Layered_Architecture-438EFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Query_Optimization-DB-4285F4?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Security-FF5722?style=for-the-badge&logo=security&logoColor=white" />
 </p>
 
-**Tools, IoT & AI Assistance**
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,flutter,arduino" /></p>
+### **Frontend & UI**
 <p align="left">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Manus-6C63FF?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Flow-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Interactive_UI-E91E63?style=for-the-badge" />
+</p>
+
+### **Databases & Optimization**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Query_Optimization-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Relational_Schema-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Tuning-FF9800?style=for-the-badge" />
+</p>
+
+### **Core Engineering Principles**
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-Principles-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Structures-Algorithms-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Layered_Architecture-438EFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SDLC-Lifecycle-607D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Asynchronous_Processing-9C27B0?style=for-the-badge" />
+</p>
+
+### **Tools, IoT & AI Assistants**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,flutter,arduino" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-3F51B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Manus-6C63FF?style=for-the-badge" />
 </p>
 
 ---
