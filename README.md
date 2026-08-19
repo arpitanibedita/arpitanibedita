@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=200&section=header&text=Arpita%20Nibedita&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Java%20%7C%20Full%20Stack%20Developer&descAlignY=75&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=200&section=header&text=Arpita%20Nibedita&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=75&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Java+%7C+Full+Stack+Developer;Backend+%26+REST+API+Development;MCA+Student+%40+Adamas+University;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;MCA+Candidate+%40+Adamas+University;Open+to+Software+Engineer+Roles" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-nibedita-360a8a262)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitanibedita7@gmail.com)
@@ -20,11 +20,11 @@
 
 ## 🚀 About Me
 
-**Java Full Stack Developer** seeking an entry-level Software Engineer role.
+**Full Stack Developer** seeking an entry-level Software Engineer role.
 
-Java-focused software developer and technology enthusiast with certified internship experience in backend application development. Strong foundations in object-oriented programming, data structures, and database systems. Experienced in developing scalable Java-based solutions and working with web technologies and REST APIs in Agile environments.
+Full Stack Developer with hands-on experience building Java/Spring Boot and Node.js/Express applications, React interfaces, REST APIs, and SQL-backed systems. Strong foundation in OOP, data structures, layered architecture, authentication, and database query optimization. Built OptiSQL, an enterprise-grade query-analysis platform focused on SQL cost modeling, index recommendations, anti-pattern detection, and asynchronous slow-query processing. MCA candidate with a strong software-engineering focus.
 
-Currently pursuing my Master of Computer Applications (MCA) at Adamas University (CGPA 8.5), with hands-on experience as a Software Trainee at Nvisagecomp Solutions and a Full Stack Developer Intern at Cognifyz Technologies.
+Currently pursuing my Master of Computer Applications (MCA) at Adamas University (CGPA 8.5), with hands-on experience as a Software Trainee at Nvisagecomp Solutions LLP and a Full Stack Developer Intern at Cognifyz Technologies.
 
 </td>
 <td valign="top" width="50%">
@@ -39,17 +39,17 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 
 ## 💼 Experience
 
-**Software Trainee** — Nvisagecomp Solutions *(Nov 2025 – Apr 2026)*
-- Supporting backend development tasks as a trainee developer
-- Assisting with database handling, debugging, and testing applications
-- Learning enterprise software development practices and workflows
+**Software Trainee** — Nvisagecomp Solutions LLP *(Nov 2025 – May 2026)*
+- Engineered responsive full-stack applications with React/React Flow, Node.js/Express.js, and Java/Spring Boot across layered RESTful architectures.
+- Designed relational schemas in MySQL and PostgreSQL and applied SQL tuning and index-optimization techniques to improve data retrieval performance.
+- Implemented JWT-based authentication across asynchronous REST services and applied secure API access patterns.
 
 📄 [Certificate](https://drive.google.com/drive/folders/1ScXkfY1wzIAHmt-1ZbV6pVrLHdzkjYxD)
 
 **Full Stack Developer Intern** — Cognifyz Technologies *(Jul 2025 – Aug 2025)*
-- Built backend modules using Java and SQL, applying OOP principles and layered architecture
-- Integrated REST APIs with database components, improving data retrieval efficiency
-- Optimized application logic and SQL queries, reducing response time
+- Built Java and SQL backend modules using OOP principles and layered architecture for database-driven applications.
+- Integrated REST APIs with database components and optimized application logic and SQL queries to improve data retrieval and response efficiency.
+- Worked in an Agile-oriented environment with emphasis on maintainability, debugging, testing, and reliable application behavior.
 
 📄 [Certificate](https://drive.google.com/drive/folders/10DHbPnzyYWG0ky40BCyNixOTUgS175OA)
 
@@ -58,17 +58,18 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 ## 🛠️ Skills
 
 **Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=java,py,cpp,c" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=java,cpp,js,py" /></p>
 
-**Backend**
+**Backend & Architecture**
 <p align="left"><img src="https://skillicons.dev/icons?i=spring,nodejs,express" /></p>
 <p align="left">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 **Frontend**
-<p align="left"><img src="https://skillicons.dev/icons?i=js,html,css" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=react,html,css,js" /></p>
 
 **Databases**
 <p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></p>
@@ -76,8 +77,8 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 **Mobile / IoT** *(used in project work)*
 <p align="left"><img src="https://skillicons.dev/icons?i=flutter,arduino" /></p>
 
-**Tools**
-<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse" /></p>
+**Tools & AI**
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" /></p>
 
 ---
 
@@ -86,87 +87,8 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 ```mermaid
 graph TD
   A[Full Stack Development] --> B[Backend Engineering]
-  A --> C[Frontend & Mobile]
-  B --> D[REST APIs & JWT Auth]
-  B --> E[MySQL / PostgreSQL]
-  C --> F[JavaScript, HTML, CSS]
+  A --> C[Frontend & React]
+  B --> D[Spring Boot & Node.js/Express]
+  B --> E[MySQL / PostgreSQL & SQL Tuning]
+  C --> F[React & React Flow]
   C --> G[Flutter for IoT projects]
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🔒 IoT Smart Door Lock & Security System — *MCA Project (Jan – May 2026)*
-`Flutter` `Arduino` `ESP32-CAM` `GSM (SIM800L)` `AI Anomaly Detection`
-- Decentralized smart door lock using a multi-microcontroller architecture (Arduino Uno R3, ESP32-CAM) with offline alerts via a GSM module
-- Companion Flutter app supporting multi-factor access control — PIN, Wi-Fi, OTP, and biometric authentication
-- Integrated AI-driven voice recognition and anomaly detection to flag suspicious entry patterns
-
-**[→ View Repository](https://github.com/arpitanibedita/Smart-Door-lock-system)**
-
-### 📦 Full-Stack Mini-ERP System — *(May – Jun 2025)*
-`Node.js` `Express.js` `MySQL` `JavaScript` `HTML/CSS`
-- Full-stack ERP dashboard to manage inventory levels and process real-time sales orders
-- RESTful backend with Node.js/Express and MySQL, using transactional queries for accurate stock deductions
-- Dynamic frontend using JavaScript and the Fetch API for real-time database updates
-
-**[→ View Repository](https://github.com/arpitanibedita/Mini-Erp-system)**
-
-### 📝 Content Management System — *(Jan – May 2024)*
-`Java` `Servlets` `JDBC` `MySQL` `Apache Tomcat`
-- Full-stack Java web app built to understand end-to-end backend-database interaction with Servlets and JDBC
-- Designed relational schemas and optimized SQL queries for content creation and retrieval
-
-**[→ View Repository](https://github.com/arpitanibedita/Content-Management-System)**
-
----
-
-## 🎓 Education
-
-| Degree | Institution | CGPA | Year |
-|:--|:--|:--|:--|
-| MCA | Adamas University, Kolkata | 8.5 | 2024 – 2026 |
-| BCA | Utkal University, Bhubaneswar | 7.27 | 2021 – 2024 |
-
-## 🏆 Certifications
-
-| Certification | Issuer |
-|:--|:--|
-| ABAP Backend Cloud | SAP |
-| APEX Cloud Developer Certification | Oracle |
-
-📄 [Certification Links](https://drive.google.com/drive/folders/1aFF7ly8DKXVVqD3QK03fuuR8X1u_pe0M)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitanibedita&theme=github_dark" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitanibedita&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=arpitanibedita&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arpitanibedita&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📞 Let's Connect
-
-<div align="center">
-
-**Open to:** Software Engineer Roles · Backend Development · Full Stack Development
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-nibedita-360a8a262)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitanibedita7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitanibedita)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4AA&height=120&section=footer" width="100%"/>
