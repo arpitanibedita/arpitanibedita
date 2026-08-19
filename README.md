@@ -58,14 +58,14 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 ## 🛠️ Skills
 
 **Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=java,cpp,js,py" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=java,cpp,js,sql,py" /></p>
 
-**Backend & Architecture**
+**Backend**
 <p align="left"><img src="https://skillicons.dev/icons?i=spring,nodejs,express" /></p>
 <p align="left">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/REST-API-009688?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 **Frontend**
@@ -74,11 +74,22 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 **Databases**
 <p align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></p>
 
-**Mobile / IoT** *(used in project work)*
-<p align="left"><img src="https://skillicons.dev/icons?i=flutter,arduino" /></p>
+**Engineering & Architecture**
+<p align="left">
+<img src="https://img.shields.io/badge/OOP-Principles-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Structures-Algorithms-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Layered_Architecture-438EFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Query_Optimization-DB-4285F4?style=for-the-badge" />
+</p>
 
 **Tools & AI**
 <p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" /></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Manus-6C63FF?style=for-the-badge" />
+</p>
 
 ---
 
