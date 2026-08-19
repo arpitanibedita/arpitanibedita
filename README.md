@@ -97,9 +97,9 @@ Currently pursuing my Master of Computer Applications (MCA) at Adamas University
 
 ```mermaid
 graph TD
-  A[Full Stack Development] --> B[Backend Engineering]
-  A --> C[Frontend & React]
-  B --> D[Spring Boot & Node.js/Express]
-  B --> E[MySQL / PostgreSQL & SQL Tuning]
-  C --> F[React & React Flow]
-  C --> G[Flutter for IoT projects]
+    A[Core Competencies] --> B[Full Stack Architecture]
+    A --> C[Database & Performance]
+    B --> D[Java / Spring Boot & Node.js/Express]
+    B --> E[React & Modern Frontend]
+    C --> F[Relational Schema Design & SQL Tuning]
+    C --> G[OptiSQL Cost Modeling & Indexing]
