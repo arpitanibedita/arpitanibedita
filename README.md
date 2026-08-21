@@ -29,18 +29,16 @@
 
 ---
 
-### 😄 A Little Humor
+### 😄 Developer × Client
 
 <!--
-  Add your "Client vs Designer" image/gif here! Since it's your own image, host it
-  yourself (see the note in chat for the two easiest ways), then paste the link below
-  in place of PASTE_YOUR_IMAGE_URL_HERE. Keep the width around 500-600px so it doesn't
-  overpower the page.
+  This is an original illustration (not a reproduction of any existing artwork) since I
+  can only make/embed art I actually have rights to. If you'd rather use your own
+  "Client vs Designer" meme image, host it via a GitHub issue upload (drag the image
+  into any issue's comment box to get a permanent link) and swap the src below for that.
 -->
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_URL_HERE" alt="Client vs Developer" width="550"/>
-  <br/>
-  <sub>Every dev knows the feeling 😅</sub>
+  <img src="assets/developer-client-illustration.svg" alt="Developer and client, connected" width="700"/>
 </p>
 
 ---
@@ -170,4 +168,3 @@ Java/SQL backend modules with OOP and layered architecture; REST API integration
 <p align="center">
   <i>Open to Full Stack Developer roles — Java/Spring Boot & Node.js/React. Let's connect!</i>
 </p>
-
